@@ -1,0 +1,170 @@
+2025-08-12 13:44:03,519 - INFO - Question: Why should viewers be active and question what they see on TV?
+Answer: •  You should question what you see on TV because it only gives you a partial view of the world.
+•  TV often focuses on specific things and ignores other important events and people.
+Example: If a TV show only shows rich people, you might think everyone lives like that, but that's not true.
+
+2025-08-12 13:44:50,181 - INFO - Question: If you read only the “News of India” version of the factory closure story, what impression would you have about the protestors?
+Answer: • If you read the "News of India" version, you might think the protestors are a problem.
+• The article might make you feel that they are annoying because they are disrupting traffic and polluting the city.
+Example: You might think the people causing a traffic jam on your way to school are a nuisance.
+
+2025-08-12 13:46:48,551 - INFO - Question: If you read only the “India Daily” version, what would you think?
+Answer: •   If you read the "India Daily" version, you would understand the factory owners and workers are protesting because they might lose their jobs.
+•   You would also learn they feel the government's relocation plan isn't good enough.
+Example: If you only read a story about a school's sports day from one newspaper, you might not know about all the fun activities that happened, like the relay race.
+
+2025-08-12 13:49:53,327 - INFO - Question: What is censorship and when did India have a major period of media censorship?
+Answer: •   Censorship is when the government stops the media from sharing news, movies, or songs with the public.
+•   India had a major period of media censorship during the Emergency from 1975 to 1977.
+Example: The government might stop a news channel from showing a story about something they don't want people to know.
+
+2025-08-12 14:11:13,150 - INFO - Question: Why is the media not truly independent even without government censorship?
+Answer: • The media is not always independent because it is often controlled by business houses.
+• These businesses might only show one side of a story to protect their interests.
+Example: A news channel might not report negatively about a company that buys advertisements on their channel.
+
+2025-08-12 14:11:15,426 - INFO - Question: Why is the media not truly independent even without government censorship?
+Answer: •   The media is not always independent because businesses control it.
+•   Businesses might focus on only one side of a story.
+Example: A newspaper might not write about problems with a company if the company pays for advertisements in the newspaper.
+
+2025-08-12 14:17:42,493 - INFO - Question: What are the differences between print media and electronic media?
+Answer: •   Print media uses things like newspapers and magazines.
+•   Electronic media uses things like TV and radio.
+Example: You read a newspaper (print) and watch TV (electronic).
+
+2025-08-12 14:52:14,488 - INFO - Question: Why does mass media need a lot of money?
+Answer: •  Mass media uses expensive technology like cameras, lights, and satellites.
+•  Many people like newsreaders and technicians need to be paid.
+•  The latest technology is always needed and it is expensive.
+Example: Imagine a school play. To make it good, you need costumes, lights, and a stage which all cost money.
+
+2025-08-12 15:00:15,841 - INFO - Question: How does media set the agenda?
+User Answer: By highlighting certain issues, it influences what people think about, feel, and discuss. For example, the media gave wide coverage to pesticide levels in cola drinks, making the public aware of the problem, but it often ignores equally important issues like the lack of safe drinking water.
+Model Answer: • Media decides which stories to focus on, so it decides what is important.
+• It influences what we think about.
+• It brings issues to our attention.
+Example: If a famous actor visits your school, the media might cover it, but not your school's regular annual function.
+
+Similarity: 0.6883382923355594
+2025-08-12 15:02:30,336 - INFO - Question: Why is it important to know both sides of a story?
+User Answer: It is important to know both sides of a story because otherwise we get only a partial and possibly biased view of events.
+Hearing all perspectives allows us to form a fair and informed opinion, rather than being influenced by just one point of view.
+Model Answer: • It's important to know both sides of a story so you can make your own decisions.
+• A balanced report gives all points of view.
+Example: If you read a news story about a new park, you should know the good things (like more green space) and the bad things (like traffic) to decide if you like the park.
+
+Similarity: 0.7728597240683411
+2025-08-12 15:03:14,225 - INFO - Question: How does television influence our view of the world?
+User Answer: It acts like a medium for information and entertainment.
+Model Answer: • TV shows us a lot about the world, like a window.
+• It shows different programs like soap operas, game shows, and news.
+• Advertisements are shown before, during, and after the programs.
+• TV can shape our ideas, beliefs, and how we feel about things.
+Example: If you always watch shows about rich people, you might think everyone lives like that, even if they don't.
+
+Similarity: 0.53568289745553
+2025-08-12 15:04:39,317 - INFO - Question: Why is television called mass media?
+User Answer: Television is called mass media because it can reach millions of people across the country and the world at the same time.
+For example, as the text says, we can be in Chennai or Jammu and still watch images of a storm in Florida through TV broadcasts sent via satellites and cables.
+
+Model Answer: • Television is called mass media because it reaches lots of people.
+• It can be watched by millions of people all over the country and the world.
+Example: Many people watch the news on TV.
+
+Similarity: 0.8288684797916926
+2025-08-12 15:06:19,395 - INFO - Question: What questions should we ask to analyze a news report?
+User Answer: What is the information I am learning from this report?
+
+What information is not being provided?
+
+From whose point of view is the article being written?
+
+Whose point of view is being left out, and why?
+
+
+Model Answer: • We should question everything we see and hear in the news.
+• We should think about how the news shapes our views, beliefs, and values.
+Example: If a news report only shows one side of a story, we should ask if there's another side we aren't seeing.
+
+Similarity: 0.5028441267119389
+2025-08-12 15:07:49,199 - INFO - Question: Why does mass media need a lot of money?
+User Answer: 
+•  Mass media uses expensive technology like cameras, lights, and satellites.
+•  Many people like newsreaders and technicians need to be paid.
+•  The latest technology is always needed and it is expensive.
+Example: Imagine a school play. To make it good, you need costumes, lights, and a stage which all cost money.
+
+
+Model Answer: • Mass media needs a lot of money because the technology they use, like cameras and lights, is expensive.
+• They also need money for the people who work there, like the newsreaders and those who work on the broadcast.
+• Also, they constantly need to spend money to get the newest technology.
+Example: A TV channel needs money to buy expensive cameras to film a show.
+
+Similarity: 0.8949566499356642
+2025-08-12 15:27:46,270 - INFO - Question: What questions should we ask to analyze a news report?
+User Answer: what is the information I am learning from this report? What information is not being provided? From whose point of view is the article being written? Whose point of view is being left out and why?
+
+Model Answer: • You should ask yourself: What is the story about?
+• You should also ask yourself: Does the news report show all sides of the story?
+• You should also ask yourself: Who is telling the story?
+• You should also ask yourself: Is the news report fair and unbiased?
+Example: If you read a news report about a school event, ask yourself if it mentions the teachers, the students, and the parents' views, or just one of them.
+
+Similarity: 0.5996165180703221
+2025-08-12 15:33:55,184 - INFO - Question: What is a balanced media report?
+User Answer: The cost to advertise on a TV channel
+ varies from 1,000 to 1,00,000 per
+ 10 seconds depending on the popularity
+ of the channel and time.
+ The print media offers a large variety of
+ information to suit the tastes of different
+ readers.
+
+
+Model Answer: •   A balanced report presents all sides of a story.
+•   It lets the readers decide what they think.
+Example: A balanced report about a school closing would include opinions from students, teachers, and the school board.
+
+Similarity: 0.43543520191252627
+2025-08-12 15:47:44,589 - INFO - Question: Why is independent media important in a democracy?
+User Answer:  Independent media is important in a democracy because citizens rely on it to get reliable, unbiased information about events and how the government works.
+This information helps them take informed actions, such as writing to ministers, organising protests, or starting campaigns. If the media is controlled or influenced, the information may be incomplete or one-sided, which weakens democratic decision-making.
+
+
+Model Answer: • Independent media means that no one controls or influences the news.
+• It is important in a democracy so that the information is reliable and not biased.
+Example: If a news channel always supports a certain political party, it's not independent because it is biased.
+
+Similarity: 0.865929127110206
+2025-08-12 17:24:59,671 - INFO - Question: What is a balanced media report?
+User Answer:  It lets the readers decide what they think.
+Example: A balanced report about a school closing would include opinions from students, teachers, and the school board.
+
+Model Answer: • A balanced media report includes all points of view of a story.
+• It lets readers decide what they think.
+Example: If there's a story about a new school, a balanced report would include what the school does well and what could be better.
+
+Similarity: 0.8192461987874229
+2025-08-12 17:27:09,936 - INFO - Question: How does media set the agenda?
+User Answer: 
+Media decides which stories to focus on, so it decides what is important.
+• It influences what we think about.
+• It brings issues to our attention.
+Example: If a famous actor visits your school, the media might cover it, but not your school's regular annual function.
+Model Answer: •   Media decides what stories to focus on, making them "newsworthy."
+•   By choosing what to focus on, the media influences our thoughts, feelings, and actions.
+•   This is how media sets the agenda, meaning it decides what issues are important for us to know about.
+Example: If a school invites a famous actor, the media might cover it, but not your regular school function.
+
+Similarity: 0.9228721938341865
+2025-08-13 12:04:55,440 - INFO - Question: Why is it important to know both sides of a story?
+User Answer: It's important to know both sides of a story so you can make your own decisions.
+• A balanced report gives all points of view.
+Example: If you read a news story about a new park, you should know the good things (like more green space) and the bad things (like traffic) to decide if you like the park.
+
+Model Answer: •   It's important to know both sides of a story because it helps you make up your own mind.
+•   A balanced report gives all points of view so you can understand everything.
+Example: Imagine you're reading about a school debate. A balanced report would include what both sides argued, not just one.
+
+Similarity: 0.8842335567563707
